@@ -2,7 +2,7 @@
 
 Welcome to **CoffeeAndNulls** — a cozy corner of the internet where caffeine meets code and dreams turn into pixels. 🎮
 
-I'm **Oğuz**, an indie game dev from **Turkey** who just hit "New Game" on his Unity journey. My ultimate goal ?Become a full-time game developer by **2028** 🇨🇦
+I'm **Oğuz**, an indie game dev from **Turkey** who just hit "New Game" on his Unity journey. My ultimate goal? Become a full-time game developer by **2028**
 
 ## 🚀 Current Mission
 
